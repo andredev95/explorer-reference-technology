@@ -27,6 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
+- Git
+- GitHub
+
 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
