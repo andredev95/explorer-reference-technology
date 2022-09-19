@@ -154,3 +154,7 @@ main section:nth-child(3) {
         transform: translateY(0)
     }
 }
+
+div ul p{
+    align-items: center;
+}
