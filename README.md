@@ -54,4 +54,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by OWL-CODER :wave: 
+Feito com ♥ by OWL-CODER :wave: -
