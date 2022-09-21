@@ -22,7 +22,7 @@ body * {
 }
 
 header {
-    padding-top: 32 border-radius: 50%;px;
+    padding-top: 32 border-radius: 50%;
     height: calc(120px + 32px);
 }
 
@@ -49,7 +49,7 @@ header div img {
 }
 
 main {
-    max-width: 580px;
+    max-width: 450px;
     width: 90%;
     margin: 32px auto;
 
@@ -96,9 +96,13 @@ section ul li:hover {
     transform: scale(1.1)
 }
 
+
+
 .listmovie-reference img {
     width: 117px;
     border-radius: 8px;
+    
+    
 }
 
 .list-reference img {
@@ -155,6 +159,13 @@ main section:nth-child(3) {
     }
 }
 
-div ul p{
-    align-items: center;
+/* swiper */
+
+section {
+    overflow: hidden;
+}
+
+section ul {
+    flex-wrap: nowrap;
+    gap: 0;
 }
