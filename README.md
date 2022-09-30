@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="explorer-reference-technology" src="#" width="100%">
+  <img alt="explorer-reference-technology" src="https://media-exp1.licdn.com/dms/image/C4D22AQFHrdtoGFBhqA/feedshare-shrink_2048_1536/0/1663570051518?e=1667433600&v=beta&t=TfYfGBR6Jkjr5cxn6SINbnQhsLwjUT39HbuSKx8DSEA" width="100%">
 </p>
 
 ## 🚀 Tecnologias
